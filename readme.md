@@ -1,7 +1,7 @@
 # Hotel Management System - Sequence Diagram Lab
 
 ## Project Overview
-This project is a comprehensive sequence diagram lab focusing on composition, generalization, and service controllers for a hotel management system. The project was developed using Visual Paradigm to create class and sequence diagrams that model the operations of Relaxing Stay Hotels, a fictional hotel chain in Ontario.
+This project is a comprehensive sequence diagram lab focusing on composition, generalization, and service controllers for a hotel management system. The project was developed using Visual Paradigm to create class and sequence diagrams that model the operations of Relaxing Stay Hotels, a fictional hotel chain in Ontario, Canada.
 
 ## Objectives
 - Create class and sequence diagrams with generalized and specialized objects
